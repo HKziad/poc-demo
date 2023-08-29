@@ -1,0 +1,5 @@
+folder1/file.json  filter=git-crypt diff=git-crypt
+folder2/file.json  filter=git-crypt diff=git-crypt
+folder3/file.json  filter=git-crypt diff=git-crypt
+folder4/file.json  filter=git-crypt diff=git-crypt
+folder5/file.json  filter=git-crypt diff=git-crypt
